@@ -1,0 +1,6 @@
+[submodule "ec-frontend"]
+	path = ec-frontend
+	url = https://github.com/kaisei-ader/ec-frontend
+[submodule "ec-backend"]
+	path = ec-backend
+	url = https://github.com/kaisei-ader/ec-backend
